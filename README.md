@@ -1,2 +1,2 @@
-# WESandWGS
-this repository includes scripts for WES and WGS analysis from DB making to final analysis methods.
+# esm1b_annotation
+this repository includes scripts for annotation WES or WGS data with esm1b database.
