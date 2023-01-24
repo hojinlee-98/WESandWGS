@@ -1,6 +1,10 @@
 # esm1b_annotation
 this repository includes scripts for annotation WES or WGS data with esm1b database.
 
+### ESM1b protein language
+https://www.biorxiv.org/content/10.1101/2022.08.25.505311v1.full  
+https://huggingface.co/facebook/esm-1b  
+
 ### make idmapping file 
 https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000005640/  
 ```shell
