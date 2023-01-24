@@ -12,15 +12,6 @@ awk '{print "source ~/.bashrc; sh 20230121_ruddle_esm1b_conversion_Jan202311_hj.
 dsq --job-file command.sh -J hj_esm1b -c 1 --mem=10G -t 120:00:00
 sbatch dsq-command-2023-01-21.sh
 ```
-
-
-```shell
-sh 20230115_idmapping_refseq_Jan152023_hj.sh
-```
-20230115_idmapping_table.txt  
-20230115_idmapping_refseq_Jan152023_runningtime_hj.txt  
-20230115_idmapping_table_esm1b_match.txt  
-
 ### test
 20230122_esm1b_annotation_Jan222023_hj.py is for variant table.  
 20230124_esm1b_annotation_Jan222024_hj.py is for *vcf.gz file.  
